@@ -41,6 +41,16 @@ Here’s a quick demo of the app (7 screenshots):
 | ![Edit](./screenshots/ss4.JPG)) | ![My Skills](./screenshots/ss5.JPG)) | ![Rating](./screenshots/ss6.JPG)) | ![Logout](./screenshots/ss7.JPG)) |
 
 > 💡 Place your screenshots inside a folder named **`screenshots/`** in your repo so they display correctly.
+>
+
+![Home](./screenshot/ss1.jpg)
+![Offer](./screenshot/ss2.jpg)
+![Profile](./screenshot/ss3.jpg)
+![Edit](./screenshot/ss4.jpg)
+![My Skills](./screenshot/ss5.jpg)
+![Rating](./screenshot/ss6.jpg)
+![Logout](./screenshot/ss7.jpg)
+
 
 ---
 
